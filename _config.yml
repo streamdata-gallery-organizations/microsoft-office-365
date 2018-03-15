@@ -1,6 +1,6 @@
 title: Streamdata Gallery
 url: microsoft-office-365.api.streamdata.gallery
-tag: Temmplate
+tag: Microsoft Office 365
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery-organizations
