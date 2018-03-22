@@ -11,8 +11,8 @@ tags:
 - Spreadsheets
 - Productivity
 - Documents
-created: "2018-03-15"
-modified: "2018-03-15"
+created: "2018-03-22"
+modified: "2018-03-22"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/microsoft-office-365/master/_listings/microsoft-office-365/apis.yaml
 specificationVersion: "0.14"
 apis:
