@@ -5,10 +5,10 @@ description: Integrate Office 365 REST APIs powered by Microsoft Graph into your
   app to connect to files, calendars, mail and more.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-office.png
 x-kinRank: "8"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Microsoft Office 365
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/microsoft-office-365/master/_listings/microsoft-office-365/apis.md
 specificationVersion: "0.14"
 apis:
